@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Einstieg Wien 15042019", "SQL Einstieg Wien 15042019\SQL Einstieg Wien 15042019.ssmssqlproj", "{D5585946-04EB-40AE-9693-109CF1EDFB01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5585946-04EB-40AE-9693-109CF1EDFB01}.Default|Default.ActiveCfg = Default
+		{DFCCE00B-6B1B-40ED-BCFC-001401DBD306}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
